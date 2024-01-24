@@ -384,8 +384,8 @@ gap: 50px;
 }
 
 .slider-arrow {
-  width: 60px;
-  height: 60px;
+  width: 48px;
+  height: 48px;
   display: flex;
   justify-content: center;
  align-items: center;
@@ -406,41 +406,41 @@ gap: 50px;
 position: relative;
 }
 .arrow-line_one_right {
-  width: 20px;
+  width: 15px;
   height: 2px;
    background-color: var(--arrow-color);
    position: absolute;
    transform: rotate(45deg);
-   left: -11px;
-   top: -9px;
+   left: -8px;
+   top: -5px;
 }
 .arrow-line_two_right {
-  width: 20px;
+  width: 15px;
   height: 2px;
    background-color: var(--arrow-color);
    position: absolute;
    transform: rotate(-45deg);
-   left: -11px;
-   top: 6px;
+   left: -8px;
+   top: 5px;
 }
 
 .arrow-line_one_left {
-  width: 20px;
+  width: 15px;
   height: 2px;
    background-color: var(--arrow-color);
    position: absolute;
    transform: rotate(-45deg);
-   left: -13px;
-   top: -9px;
+   left: -8px;
+   top: -5px;
 }
 .arrow-line_two_left {
-  width: 20px;
+  width: 15px;
   height: 2px;
    background-color: var(--arrow-color);
    position: absolute;
    transform: rotate(45deg);
-   left: -13px;
-   top: 6px;
+   left: -8px;
+   top: 5px;
 }
 
 
